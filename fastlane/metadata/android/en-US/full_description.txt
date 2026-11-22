@@ -7,7 +7,7 @@ Puzzles & Numbers brings 85 puzzles and 90 variants together in one app, with ou
 • Variant packs: Sudoku Collection (30), Logic Puzzle Vault (60)
 
 Highlights
-• 50,000 levels per game; grid size and difficulty grow step by step, and every level is checked by a solver.
+• 100,000 levels per game; grid size and difficulty grow step by step, and every level is checked by a solver.
 • Ten difficulty steps: relaxed early levels, expert challenges later.
 • Hints and undo whenever you need them.
 • Daily and weekly levels, missions, achievements and 33 languages.

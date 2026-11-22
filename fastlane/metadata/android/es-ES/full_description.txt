@@ -7,7 +7,7 @@ Puzles y Números reúne 85 puzles y 90 variantes en una app, con nuestro propio
 • Paquetes de variantes: Colección Sudoku (30), Bóveda de Lógica (60)
 
 Lo más destacado
-• 50.000 niveles por juego; el tamaño de la cuadrícula y la dificultad crecen poco a poco, y un solucionador comprueba cada nivel.
+• 100.000 niveles por juego; el tamaño de la cuadrícula y la dificultad crecen poco a poco, y un solucionador comprueba cada nivel.
 • Diez escalones de dificultad: niveles tranquilos al principio, retos expertos después.
 • Pistas y deshacer siempre que los necesites.
 • Niveles diarios y semanales, misiones, logros y 33 idiomas.

@@ -7,7 +7,7 @@ Teka-teki & Nombor menghimpunkan 85 teka-teki dan 90 varian dalam satu aplikasi,
 • Pek varian: Koleksi Sudoku (30), Peti Teka-teki Logik (60)
 
 Sorotan
-• 50,000 tahap bagi setiap permainan; saiz grid dan kesukaran meningkat sedikit demi sedikit, dan setiap tahap disemak oleh penyelesai.
+• 100,000 tahap bagi setiap permainan; saiz grid dan kesukaran meningkat sedikit demi sedikit, dan setiap tahap disemak oleh penyelesai.
 • Sepuluh peringkat kesukaran: santai pada awal, cabaran pakar kemudian.
 • Petunjuk dan buat asal bila-bila masa diperlukan.
 • Tahap harian dan mingguan, misi, pencapaian dan 33 bahasa.

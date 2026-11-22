@@ -7,7 +7,7 @@ Puzzle-uri și Numere reunește 85 puzzle-uri și 90 variante într-o aplicație
 • Pachete de variante: Colecția Sudoku (30), Seiful de Logică (60)
 
 Puncte forte
-• 50.000 de niveluri pe joc; mărimea grilei și dificultatea cresc treptat, iar fiecare nivel e verificat de un rezolvitor.
+• 100.000 de niveluri pe joc; mărimea grilei și dificultatea cresc treptat, iar fiecare nivel e verificat de un rezolvitor.
 • Zece trepte de dificultate: niveluri relaxante la început, provocări de expert mai târziu.
 • Indicii și anulare oricând ai nevoie.
 • Niveluri zilnice și săptămânale, misiuni, realizări și 33 de limbi.

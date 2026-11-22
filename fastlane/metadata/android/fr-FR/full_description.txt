@@ -7,7 +7,7 @@ Casse-têtes & Chiffres réunit 85 casse-têtes et 90 variantes dans une app, av
 • Packs de variantes: Collection Sudoku (30), Coffre de Logique (60)
 
 Points forts
-• 50 000 niveaux par jeu ; taille de grille et difficulté augmentent pas à pas, et chaque niveau est vérifié par un solveur.
+• 100 000 niveaux par jeu ; taille de grille et difficulté augmentent pas à pas, et chaque niveau est vérifié par un solveur.
 • Dix paliers de difficulté : niveaux détendus au début, défis d’expert ensuite.
 • Indices et annulation dès que vous en avez besoin.
 • Niveaux quotidiens et hebdomadaires, missions, succès et 33 langues.

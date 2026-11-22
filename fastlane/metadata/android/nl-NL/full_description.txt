@@ -7,7 +7,7 @@ Puzzels & Getallen bundelt 85 puzzels en 90 varianten in één app, met ons eige
 • Variantenpakketten: Sudokubundel (30), Logicakluis (60)
 
 Hoogtepunten
-• 50.000 levels per spel; rastergrootte en moeilijkheid groeien stap voor stap, en elk level wordt door een oplosser gecontroleerd.
+• 100.000 levels per spel; rastergrootte en moeilijkheid groeien stap voor stap, en elk level wordt door een oplosser gecontroleerd.
 • Tien moeilijkheidstreden: ontspannen begin, later uitdagingen voor experts.
 • Hints en ongedaan maken wanneer je ze nodig hebt.
 • Dagelijkse en wekelijkse levels, opdrachten, prestaties en 33 talen.

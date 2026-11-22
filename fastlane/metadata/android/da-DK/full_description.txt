@@ -7,7 +7,7 @@ Gåder & Tal samler 85 gåder og 90 varianter i én app med vores eget design. T
 • Variantpakker: Sudokusamling (30), Logikboksen (60)
 
 Højdepunkter
-• 50.000 baner pr. spil; gitterstørrelse og sværhedsgrad stiger trin for trin, og hver bane tjekkes af en løser.
+• 100.000 baner pr. spil; gitterstørrelse og sværhedsgrad stiger trin for trin, og hver bane tjekkes af en løser.
 • Ti sværhedstrin: afslappet start, ekspertudfordringer senere.
 • Hints og fortryd, når du har brug for det.
 • Daglige og ugentlige baner, opgaver, præstationer og 33 sprog.

@@ -7,7 +7,7 @@ Rompicapi e Numeri riunisce 85 rompicapi e 90 varianti in una app, con il nostro
 • Pacchetti di varianti: Raccolta Sudoku (30), Scrigno di Logica (60)
 
 In evidenza
-• 50.000 livelli per gioco; dimensione della griglia e difficoltà crescono passo dopo passo, e ogni livello è verificato da un risolutore.
+• 100.000 livelli per gioco; dimensione della griglia e difficoltà crescono passo dopo passo, e ogni livello è verificato da un risolutore.
 • Dieci gradini di difficoltà: livelli rilassanti all’inizio, sfide da esperti più avanti.
 • Suggerimenti e annulla ogni volta che servono.
 • Livelli giornalieri e settimanali, missioni, obiettivi e 33 lingue.

@@ -7,7 +7,7 @@ Rejtvények és számok: 85 rejtvény és 90 változat egy alkalmazásban, sajá
 • Változatcsomagok: Szudoku-gyűjtemény (30), Logikai fejtörő-tár (60)
 
 Kiemelt
-• Játékonként 50 000 pálya; a rács mérete és a nehézség lépésről lépésre nő, minden pályát megoldó program ellenőriz.
+• Játékonként 100 000 pálya; a rács mérete és a nehézség lépésről lépésre nő, minden pályát megoldó program ellenőriz.
 • Tíz nehézségi fokozat: nyugodt kezdés, később szakértői kihívások.
 • Tippek és visszavonás, amikor csak kell.
 • Napi és heti pályák, küldetések, eredmények és 33 nyelv.

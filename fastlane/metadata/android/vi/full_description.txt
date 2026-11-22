@@ -7,7 +7,7 @@ Câu đố & Con số tập hợp 85 câu đố và 90 biến thể trong một 
 • Gói biến thể: Bộ sưu tập Sudoku (30), Kho câu đố logic (60)
 
 Điểm nổi bật
-• 50.000 màn mỗi trò; kích thước lưới và độ khó tăng dần, mọi màn đều được bộ giải kiểm tra.
+• 100.000 màn mỗi trò; kích thước lưới và độ khó tăng dần, mọi màn đều được bộ giải kiểm tra.
 • Mười bậc độ khó: nhẹ nhàng lúc đầu, thử thách chuyên gia về sau.
 • Gợi ý và hoàn tác bất cứ khi nào cần.
 • Màn hằng ngày và hằng tuần, nhiệm vụ, thành tích và 33 ngôn ngữ.

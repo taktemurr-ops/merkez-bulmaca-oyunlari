@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: c52747c45cd53961c123a3c66a507332676c71c5
+      ref: db188da8c48fab4978716e0b52f150e6b52ff09c
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_sudoku:
     git:
@@ -376,7 +376,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: c52747c45cd53961c123a3c66a507332676c71c5
+      ref: db188da8c48fab4978716e0b52f150e6b52ff09c
   bulmaca_motoru:
     git:
       url: https://github.com/taktemurr-ops/bulmaca-motoru

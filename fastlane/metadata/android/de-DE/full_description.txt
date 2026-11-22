@@ -7,7 +7,7 @@ Rätsel & Zahlen vereint 85 Rätsel und 90 Varianten in einer App, mit unserem e
 • Variantenpakete: Sudoku-Sammlung (30), Logikrätsel-Tresor (60)
 
 Highlights
-• Je Spiel 50.000 Level; Rastergröße und Schwierigkeit steigen Schritt für Schritt, jedes Level wird von einem Löser geprüft.
+• Je Spiel 100.000 Level; Rastergröße und Schwierigkeit steigen Schritt für Schritt, jedes Level wird von einem Löser geprüft.
 • Zehn Schwierigkeitsstufen: entspannt am Anfang, Profi-Herausforderungen später.
 • Hinweise und Rückgängig, wann immer du sie brauchst.
 • Tägliche und wöchentliche Level, Aufgaben, Erfolge und 33 Sprachen.

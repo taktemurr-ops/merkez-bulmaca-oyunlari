@@ -7,7 +7,7 @@ Pinagsasama ng Palaisipan at Numero ang 85 palaisipan at 90 variant sa iisang ap
 • Mga pack ng variant: Koleksyon ng Sudoku (30), Imbakan ng Palaisipang Lohika (60)
 
 Mga tampok
-• 50,000 level bawat laro; unti-unting lumalaki ang grid at tumataas ang hirap, at sinusuri ng solver ang bawat level.
+• 100,000 level bawat laro; unti-unting lumalaki ang grid at tumataas ang hirap, at sinusuri ng solver ang bawat level.
 • Sampung baitang ng hirap: magaan sa umpisa, hamon para sa eksperto sa huli.
 • May hint at undo tuwing kailangan.
 • Araw-araw at lingguhang level, misyon, tagumpay at 33 wika.

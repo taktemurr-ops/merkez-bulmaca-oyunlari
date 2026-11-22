@@ -7,7 +7,7 @@ Hlavolamy a čísla spojuje 85 hlavolamů a 90 variant v jedné aplikaci s naš�
 • Balíčky variant: Sbírka sudoku (30), Trezor logických hádanek (60)
 
 Hlavní přednosti
-• 50 000 úrovní v každé hře; velikost mřížky i obtížnost rostou postupně a každou úroveň ověřuje řešič.
+• 100 000 úrovní v každé hře; velikost mřížky i obtížnost rostou postupně a každou úroveň ověřuje řešič.
 • Deset stupňů obtížnosti: pohodový začátek, později výzvy pro experty.
 • Nápovědy a krok zpět, kdykoli je potřebujete.
 • Denní a týdenní úrovně, úkoly, úspěchy a 33 jazyků.

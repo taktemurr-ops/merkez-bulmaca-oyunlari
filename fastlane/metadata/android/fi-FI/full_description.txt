@@ -7,7 +7,7 @@ Pulmat & Numerot kokoaa 85 pulmaa ja 90 muunnelmaa yhteen sovellukseen omalla su
 • Muunnelmapaketit: Sudoku-kokoelma (30), Logiikkaholvi (60)
 
 Kohokohdat
-• 50 000 tasoa per peli; ruudukon koko ja vaikeus kasvavat askel askeleelta, ja ratkaisija tarkistaa jokaisen tason.
+• 100 000 tasoa per peli; ruudukon koko ja vaikeus kasvavat askel askeleelta, ja ratkaisija tarkistaa jokaisen tason.
 • Kymmenen vaikeusporrasta: rento alku, myöhemmin haasteita asiantuntijoille.
 • Vihjeet ja kumoaminen aina tarvittaessa.
 • Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.

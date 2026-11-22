@@ -7,7 +7,7 @@ Quebra-cabeças e Números reúne 85 quebra-cabeças e 90 variantes num só app,
 • Pacotes de variantes: Coleção Sudoku (30), Cofre de Lógica (60)
 
 Destaques
-• 50.000 fases por jogo; o tamanho da grade e a dificuldade aumentam aos poucos, e cada fase é verificada por um resolvedor.
+• 100.000 fases por jogo; o tamanho da grade e a dificuldade aumentam aos poucos, e cada fase é verificada por um resolvedor.
 • Dez degraus de dificuldade: fases tranquilas no início, desafios de especialista depois.
 • Dicas e desfazer sempre que precisar.
 • Níveis diários e semanais, missões, conquistas e 33 idiomas.

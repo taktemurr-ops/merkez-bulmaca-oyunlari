@@ -7,7 +7,7 @@ Bulmaca ve Sayı, 85 bulmacayı ve 90 çeşidi stüdyonun kendine özgü tasarı
 • Çeşit paketleri: Sudoku Paketi (30), Mantık Bulmacası Arşivi (60)
 
 Öne çıkanlar
-• Oyun başına 50.000 bölüm; ızgara boyutu ve zorluk adım adım artar, her bölüm çözücüyle doğrulanır.
+• Oyun başına 100.000 bölüm; ızgara boyutu ve zorluk adım adım artar, her bölüm çözücüyle doğrulanır.
 • On zorluk basamağı: ilk bölümlerde rahat, ileride ustalara göre.
 • İpucu ve geri al her zaman elinizin altında.
 • Günlük ve haftalık bölümler, görevler, başarımlar ve 33 dil.

@@ -7,7 +7,7 @@ Teka-teki & Angka menghadirkan 85 teka-teki dan 90 varian dalam satu aplikasi, d
 • Paket varian: Koleksi Sudoku (30), Gudang Teka-teki Logika (60)
 
 Sorotan
-• 50.000 level per permainan; ukuran kisi dan tingkat kesulitan naik bertahap, dan setiap level diperiksa oleh pemecah.
+• 100.000 level per permainan; ukuran kisi dan tingkat kesulitan naik bertahap, dan setiap level diperiksa oleh pemecah.
 • Sepuluh tingkat kesulitan: santai di awal, tantangan ahli di akhir.
 • Petunjuk dan urungkan kapan pun dibutuhkan.
 • Level harian dan mingguan, misi, pencapaian, dan 33 bahasa.
