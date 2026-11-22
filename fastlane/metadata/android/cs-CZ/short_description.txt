@@ -1,0 +1,1 @@
+85 hlavolamů v jedné aplikaci: sudoku, logické mřížky, třídění a další!

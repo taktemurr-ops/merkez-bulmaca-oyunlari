@@ -1,0 +1,17 @@
+Łamigłówki i liczby łączy 85 łamigłówek i 90 odmian w jednej aplikacji, z naszym własnym designem. Łamigłówki liczbowe, siatki logiczne, gry w sortowanie i przesuwanie oraz klasyczne zagadki; każda gra ma własne postępy, zadania i osiągnięcia.
+
+• Łamigłówki liczbowe: Sudoku, Sudoku klatkowe, Odmiany sudoku, Wieżowce, Kakuro, Pudełka rachunkowe, Większe czy mniejsze, Krzyżówka matematyczna, Łączenie liczb, Ścieżka liczb, Liczby obszarów, Liczby grup, Sumy indeksów, Skreśl do sumy, Do dziesięciu, 2048, Łańcuch liczb, Przesuwane liczby, Szesnaście przesunięć, Tylko raz, Szlak drogowskazów, Łowy na domino
+• Siatki logiczne: Logika symboli, Logika obrazków, Kolorowa logika obrazków, Pole minowe, Łamigłówka binarna, Pętla, Mosty, Wyspy i morze, Gwiezdne obszary, Namioty, Podział pokoi, Pętla strzałek, Ukryta flota, Akwarium, Czarne pary, Czwórki, Wskazówki pierścienia, Rozmieszczanie koron, Ciemne oko, Zasięg wzroku, Zapal światło, Magnesy, Perłowa pętla, Ukośne linie, Podział na prostokąty, Galaktyki, Układanie torów, Dwór luster, Budowniczy płotów, Mozaika, Kolorowanie mapy, Czarna skrzynka
+• Sortowanie, przesuwanie i ścieżki: Sortowanie wody, Sortowanie kulek, Sortowanie nakrętek, Sortowanie sześciokątów, Ucieczka strzałek, Stuknij i usuń, Ucieczka dużego klocka, Wyjazd z parkingu, Kolejka do autobusu, Przesuwany obrazek, Ślizg po lodzie, Bezwładność, Pchacz skrzyń, Labirynt, Obracaj i układaj, Przesuwna sieć, Obracanie rur, Strumienie kolorów, Jedna linia, Zgaś światła, Odwracanie wzorów
+• Klasyczne zagadki: Wieża krążków, Droga skoczka i hetmany, Łamacz kodów, Kolorowa kostka, Tangram, Układanka, Rysuj i tocz, Rozplątywanie lin, Rozplątywanie, Skoczek
+• Pakiety odmian: Kolekcja sudoku (30), Skarbiec łamigłówek (60)
+
+Najważniejsze
+• 50 000 poziomów w każdej grze; rozmiar siatki i trudność rosną stopniowo, a każdy poziom sprawdza solver.
+• Dziesięć stopni trudności: spokojny początek, wyzwania dla ekspertów później.
+• Podpowiedzi i cofanie, kiedy tylko ich potrzebujesz.
+• Poziomy dzienne i tygodniowe, zadania, osiągnięcia i 33 języki.
+• Gra offline na telefonie, tablecie i w przeglądarce.
+• Bez hazardu, zakładów i treści 18+; dla każdego wieku.
+
+Zakupy (np. brak reklam) obowiązują we wszystkich grach w aplikacji.

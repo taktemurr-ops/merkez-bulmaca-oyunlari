@@ -1,0 +1,17 @@
+Teka-teki & Angka menghadirkan 85 teka-teki dan 90 varian dalam satu aplikasi, dengan desain orisinal kami. Teka-teki angka, kisi logika, permainan menyortir dan menggeser, serta asah otak klasik; setiap permainan punya progres, misi, dan pencapaian sendiri.
+
+• Teka-teki angka: Sudoku, Sudoku Sangkar, Varian Sudoku, Pencakar Langit, Kakuro, Kotak Hitung, Lebih Besar atau Kecil, Teka-teki Silang Hitung, Sambung Angka, Jejak Angka, Angka Wilayah, Angka Kelompok, Jumlah Indeks, Hapus Jadi Jumlah, Jadikan Sepuluh, 2048, Rantai Angka, Angka Geser, Enam Belas Geser, Hanya Sekali, Jejak Penunjuk, Berburu Domino
+• Kisi logika: Logika Simbol, Logika Gambar, Logika Gambar Berwarna, Ladang Ranjau, Teka-teki Biner, Garis Lingkar, Jembatan, Pulau dan Laut, Wilayah Bintang, Tenda, Pembagi Ruang, Lingkar Panah, Armada Tersembunyi, Akuarium, Pasangan Hitam, Kepingan Empat, Petunjuk Cincin, Tempatkan Mahkota, Mata Gelap, Jarak Pandang, Nyalakan, Magnet, Lingkar Mutiara, Garis Miring, Bagi Persegi Panjang, Galaksi, Pasang Rel, Rumah Cermin, Pembuat Pagar, Mozaik, Mewarnai Peta, Kotak Hitam
+• Menyortir, menggeser, dan jalur: Urutkan Air, Urutkan Bola, Urutkan Mur, Urutkan Segi Enam, Kabur Panah, Ketuk Singkirkan, Kabur Balok Besar, Keluar Parkiran, Antrean Bus, Geser Gambar, Seluncur Es, Inersia, Dorong Kotak, Labirin, Putar Urutkan, Jaringan Geser, Putar Pipa, Aliran Warna, Satu Garis, Matikan Lampu, Balik Pola
+• Asah otak klasik: Menara Cakram, Jalur Kuda & Ratu, Pemecah Kode, Kubus Warna, Tangram, Teka-teki Gambar, Gambar & Gulirkan, Urai Tali, Urai, Lompat Pasak
+• Paket varian: Koleksi Sudoku (30), Gudang Teka-teki Logika (60)
+
+Sorotan
+• 50.000 level per permainan; ukuran kisi dan tingkat kesulitan naik bertahap, dan setiap level diperiksa oleh pemecah.
+• Sepuluh tingkat kesulitan: santai di awal, tantangan ahli di akhir.
+• Petunjuk dan urungkan kapan pun dibutuhkan.
+• Level harian dan mingguan, misi, pencapaian, dan 33 bahasa.
+• Bisa dimainkan offline di ponsel, tablet, dan web.
+• Tanpa judi, taruhan, atau konten 18+; cocok untuk semua usia.
+
+Pembelian (seperti hapus iklan) berlaku untuk semua permainan di aplikasi.

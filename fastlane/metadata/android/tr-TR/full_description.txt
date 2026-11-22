@@ -1,0 +1,17 @@
+Bulmaca ve Sayı, 85 bulmacayı ve 90 çeşidi stüdyonun kendine özgü tasarımıyla tek uygulamada toplar. Sayı bulmacaları, mantık ızgaraları, sıralama ve kaydırma oyunları ile klasik zekâ oyunları; her oyunun kendi kayıtları, görevleri ve başarımları vardır.
+
+• Sayı bulmacaları: Sudoku, Kafesli Sudoku, Sudoku Çeşitleri, Gökdelenler, Kakuro, Hesap Kutusu, Büyük Küçük, Matematik Çengeli, Sayı Bağlama, Sayı Yolu, Bölge Sayısı, Grup Sayıları, Sıra Toplamı, Sil ve Topla, Ona Tamamla, 2048, Sayı Zinciri, Kayan Sayılar, On Altı Kaydırma, Tek Kalsın, Tabela Yolu, Domino Avı
+• Mantık ızgaraları: Simge Mantığı, Resim Mantığı, Renkli Resim Mantığı, Mayın Tarlası, İkili Bulmaca, Çevre Çizgisi, Köprüler, Adalar ve Deniz, Yıldız Bölgeleri, Çadırlar, Oda Bölme, Oklu Döngü, Gizli Filo, Akvaryum, İkişer Kara, Dörtlü Parça, Çevre İpucu, Taç Yerleştirme, Kara Göz, Menzil, Işık Yak, Mıknatıslar, İnci Döngüsü, Eğik Çizgi, Dikdörtgen Böl, Galaksiler, Ray Döşeme, Aynalı Konak, Çit Ustası, Mozaik, Harita Boyama, Kara Kutu
+• Sıralama, kaydırma ve yol: Su Sıralama, Top Sıralama, Somun Sıralama, Altıgen Sıralama, Ok Kaçışı, Tıkla Kaldır Taşlar, Büyük Blok Kaçışı, Otopark Çıkışı, Otobüs Kuyruğu, Resim Kaydırma, Buz Kaydırma, Atalet, Kutu İtme, Labirent, Döndür Diz, Kaydırmalı Ağ, Boru Döndürme, Renk Akışı, Tek Çizgi, Işıkları Söndür, Desen Çevir
+• Klasik zekâ oyunları: Disk Kulesi, At Yolu ve Vezirler, Kod Kırıcı, Renk Küpü, Tangram, Yapboz, Çiz ve Yuvarla, İp Çözme, Düğüm Çöz, Taş Zıplatma
+• Çeşit paketleri: Sudoku Paketi (30), Mantık Bulmacası Arşivi (60)
+
+Öne çıkanlar
+• Oyun başına 50.000 bölüm; ızgara boyutu ve zorluk adım adım artar, her bölüm çözücüyle doğrulanır.
+• On zorluk basamağı: ilk bölümlerde rahat, ileride ustalara göre.
+• İpucu ve geri al her zaman elinizin altında.
+• Günlük ve haftalık bölümler, görevler, başarımlar ve 33 dil.
+• İnternetsiz oynanır; telefon, tablet ve webde çalışır.
+• Kumar, bahis veya 18+ içerik yoktur; tüm yaşlar için uygundur.
+
+Satın alımlar (ör. reklamsız) uygulamadaki tüm oyunlarda geçerlidir.
