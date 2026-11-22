@@ -19,6 +19,8 @@ import re
 
 APP_NAME = "Puzzles & Numbers"
 APP_NAME_TR = "Bulmaca ve Sayı"
+# XML/HTML içinde "&" kaçışlı yazılır (AndroidManifest, Info.plist, index.html).
+APP_NAME_XML = APP_NAME.replace("&", "&amp;")
 # Google's PUBLIC TEST AdMob app ids. Replace before publishing.
 ADMOB_ANDROID = os.environ.get("ADMOB_APP_ID_ANDROID") or "ca-app-pub-3940256099942544~3347511713"
 ADMOB_IOS = os.environ.get("ADMOB_APP_ID_IOS") or "ca-app-pub-3940256099942544~1458002511"
@@ -38,7 +40,7 @@ def android():
     man = "android/app/src/main/AndroidManifest.xml"
     if os.path.exists(man):
         s = read(man)
-        s = re.sub(r'android:label="[^"]*"', 'android:label="%s"' % APP_NAME, s, count=1)
+        s = re.sub(r'android:label="[^"]*"', 'android:label="%s"' % APP_NAME_XML, s, count=1)
         # Every screen size + resizable windows (tablets, foldables, ChromeOS).
         if "<supports-screens" not in s:
             s = s.replace(
@@ -139,7 +141,7 @@ def ios():
         s = read(plist)
         s = re.sub(
             r"(<key>CFBundleDisplayName</key>\s*<string>)[^<]*(</string>)",
-            r"\g<1>%s\g<2>" % APP_NAME,
+            r"\g<1>%s\g<2>" % APP_NAME_XML,
             s,
         )
         extra = ""
@@ -194,10 +196,10 @@ def web():
     index = "web/index.html"
     if os.path.exists(index):
         s = read(index)
-        s = re.sub(r"<title>[^<]*</title>", "<title>%s</title>" % APP_NAME, s)
+        s = re.sub(r"<title>[^<]*</title>", "<title>%s</title>" % APP_NAME_XML, s)
         s = re.sub(
             r'<meta name="description" content="[^"]*">',
-            '<meta name="description" content="%s - %s">' % (APP_NAME, APP_NAME_TR),
+            '<meta name="description" content="%s - %s">' % (APP_NAME_XML, APP_NAME_TR),
             s,
         )
         if 'name="referrer"' not in s:
