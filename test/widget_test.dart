@@ -101,4 +101,17 @@ void main() {
     expect(hubConfig.title.length, 33);
     expect(hubConfig.tagline.length, 33);
   });
+
+  test('her oyun ve grup bir bölüm başlığı altında', () {
+    final ids = {for (final s in hubConfig.sections) ...s.ids};
+    for (final g in hubConfig.games) {
+      expect(ids.contains(g.gameId), isTrue, reason: g.gameId);
+    }
+    for (final g in hubConfig.groups) {
+      expect(ids.contains(g.id), isTrue, reason: g.id);
+    }
+    for (final s in hubConfig.sections) {
+      expect(s.title.length, 33);
+    }
+  });
 }
