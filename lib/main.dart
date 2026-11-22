@@ -151,7 +151,7 @@ final hubConfig = HubConfig(
       'Sudoku, logik, sortering og mere i én app',
       'Sudoku, logikk, sortering og mer i én app',
       'Sudoku, logiikka, lajittelu ja paljon muuta yhdessä sovelluksessa',
-      '数独・ロジック・仕分けなどをひとつのアプリに',
+      'ナンバープレース・ロジック・仕分けなどをひとつのアプリに',
       '스도쿠, 논리, 정렬 등을 앱 하나에',
       '数独、逻辑、分类等，一个应用全搞定',
       'सुडोकू, तर्क, छँटाई और भी बहुत कुछ एक ऐप में',
