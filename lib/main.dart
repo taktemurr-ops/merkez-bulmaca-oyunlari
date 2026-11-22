@@ -251,6 +251,7 @@ final hubConfig = HubConfig(
     yildizConfig,
     cadirConfig,
   ],
+  starters: ['oyun-sudoku', 'oyun-2048', 'oyun-nonogram'],
   groups: [sudokuPaketGroup, mantikArsivGroup],
   sections: [
     HubSection(
