@@ -380,7 +380,7 @@ dependency_overrides:
   bulmaca_motoru:
     git:
       url: https://github.com/taktemurr-ops/bulmaca-motoru
-      ref: d7c01ea8eaaed3dbe967672468076ac7016400fb
+      ref: bde4ec630fdf3d34948c3348671115c22d440f1b
 
 dev_dependencies:
   flutter_test:
