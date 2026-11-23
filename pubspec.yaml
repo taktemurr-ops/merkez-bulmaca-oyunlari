@@ -210,7 +210,7 @@ dependencies:
   oyun_akvaryum:
     git:
       url: https://github.com/taktemurr-ops/oyun-akvaryum
-      ref: f2cba359f4db077baa878d7ea15347acfc7a82d6
+      ref: 1d382830330cb014462cd6e88a541ff2e8a54787
   oyun_norinori:
     git:
       url: https://github.com/taktemurr-ops/oyun-norinori
