@@ -162,7 +162,7 @@ final hubConfig = HubConfig(
       'Sudoku, logic, sắp xếp và nhiều hơn trong một ứng dụng',
       'Sudoku, lohika, pag-aayos at marami pa sa iisang app',
     ],
-  seedColor: const Color(0xFF2E6F8E),
+  seedColor: const Color(0xFF187BD3),
   icon: Icons.extension_rounded,
   games: [
     sudokuConfig,
