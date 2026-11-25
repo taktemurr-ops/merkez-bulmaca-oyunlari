@@ -1,0 +1,1 @@
+häkkisudoku,muunnelmat,pilvenpiirtäjät,kakuro,laskulaatikot,suurempi,vai,pienempi,laskuristikko,tee

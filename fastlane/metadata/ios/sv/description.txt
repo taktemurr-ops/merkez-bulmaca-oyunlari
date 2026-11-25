@@ -1,0 +1,17 @@
+Pussel & Siffror samlar 85 pussel och 90 varianter i en app, med vår egen design. Sifferpussel, logikrutnät, sorterings- och skjutspel och klassiska hjärngympor; varje spel har egna framsteg, uppdrag och prestationer.
+
+• Sifferpussel: Sudoku, Bur-sudoku, Sudokuvarianter, Skyskrapor, Kakuro, Räknerutor, Större eller mindre, Mattekorsord, Sifferlänk, Talstig, Områdestal, Grupptal, Indexsummor, Stryk till summan, Gör tio, 2048, Talkedja, Skjutsiffror, Sexton skift, Bara en gång, Skyltstig, Dominojakt
+• Logikrutnät: Symbollogik, Bildlogik, Färgad bildlogik, Minfält, Binärt pussel, Slinglinje, Broar, Öar och hav, Stjärnområden, Tält, Rumsdelare, Pilslinga, Dold flotta, Vattentankar, Svarta par, Fyrrutsbitar, Ringledtrådar, Kronplacering, Mörkt öga, Siktlinje, Tänd ljuset, Magneter, Pärlslinga, Sneda linjer, Rektangeldelning, Galaxer, Rälsläggning, Spegelgården, Staketbyggare, Mosaik, Kartfärgning, Svarta lådan
+• Sortera, skjuta och vägar: Vattensortering, Bollsortering, Muttersortering, Hexagonsortering, Pilflykt, Tryck bort, Stora blockets flykt, Parkeringsutfart, Busskö, Skjutbild, Isglid, Tröghet, Lådskuffaren, Labyrint, Vrid och ordna, Glidande nätverk, Rörvridare, Färgströmmar, En linje, Släck lamporna, Mönstervändning
+• Klassiska hjärngympor: Disktorn, Springarväg & damer, Kodknäckare, Färgkub, Tangram, Pussel, Rita & rulla, Reda ut repen, Reda ut, Pinnhopp
+• Variantpaket: Sudokusamling (30), Logikvalvet (60)
+
+Höjdpunkter
+• 100 000 nivåer per spel; rutnätets storlek och svårighet ökar steg för steg, och varje nivå kontrolleras av en lösare.
+• Tio svårighetssteg: avslappnat i början, expertutmaningar senare.
+• Ledtrådar och ångra när du behöver dem.
+• Dagliga och veckovisa nivåer, uppdrag, prestationer och 33 språk.
+• Spelas offline på mobil, surfplatta och webb.
+• Inget spel om pengar, vadslagning eller 18+-innehåll; passar alla åldrar.
+
+Köp (t.ex. reklamfritt) gäller alla spel i appen.

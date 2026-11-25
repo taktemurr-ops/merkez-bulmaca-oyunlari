@@ -1,0 +1,1 @@
+85 bulmaca tek uygulamada: sudoku, mantık ızgaraları, sıralama ve fazlası!

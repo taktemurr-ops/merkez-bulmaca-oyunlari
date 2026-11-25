@@ -1,0 +1,1 @@
+jaulas,variantes,rascacielos,kakuro,cajas,cálculo,mayor,menor,crucigrama,matemático,enlaza,camino

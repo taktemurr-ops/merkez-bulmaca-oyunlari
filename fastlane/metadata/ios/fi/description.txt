@@ -1,0 +1,17 @@
+Pulmat & Numerot kokoaa 85 pulmaa ja 90 muunnelmaa yhteen sovellukseen omalla suunnittelullamme. Numeropulmat, logiikkaruudukot, lajittelu- ja liukupelit sekä klassiset aivopähkinät; jokaisella pelillä on oma edistyminen, tehtävät ja saavutukset.
+
+• Numeropulmat: Sudoku, Häkkisudoku, Sudoku-muunnelmat, Pilvenpiirtäjät, Kakuro, Laskulaatikot, Suurempi vai pienempi, Laskuristikko, Lukuyhteys, Numeropolku, Aluenumerot, Ryhmäluvut, Indeksisummat, Poista summaksi, Tee kymmenen, 2048, Lukuketju, Liukuvat numerot, Kuusitoista siirto, Vain kerran, Opastepolku, Dominojahti
+• Logiikkaruudukot: Symbolilogiikka, Kuvalogiikka, Värillinen kuvalogiikka, Miinakenttä, Binääripulma, Silmukka, Sillat, Saaret ja meri, Tähtialueet, Teltat, Huonejako, Nuolisilmukka, Piilotettu laivasto, Vesisäiliöt, Mustat parit, Nelisolut, Rengasvihjeet, Kruunujen sijoitus, Tumma silmä, Näköyhteys, Sytytä valo, Magneetit, Helmisilmukka, Vinoviivat, Suorakaidejako, Galaksit, Raiteiden lasku, Peilikartano, Aidanrakentaja, Mosaiikki, Kartan väritys, Musta laatikko
+• Lajittelu, liu’utus ja reitit: Vesilajittelu, Pallolajittelu, Mutterilajittelu, Kuusikulmiolajittelu, Nuolipako, Napauta pois, Ison palikan pako, Parkkipaikan ulosajo, Bussijono, Liukukuva, Jääliuku, Hitaus, Laatikkotyöntäjä, Sokkelo, Kierrä ja järjestä, Liukuverkko, Putkien kääntö, Värivirrat, Yksi viiva, Valot pois, Kuviokääntö
+• Klassiset aivopähkinät: Kiekkotorni, Ratsun reitti ja kuningattaret, Koodinmurtaja, Värikuutio, Tangram, Palapeli, Piirrä ja vieritä, Köysien selvitys, Selvitä, Nappihyppy
+• Muunnelmapaketit: Sudoku-kokoelma (30), Logiikkaholvi (60)
+
+Kohokohdat
+• 100 000 tasoa per peli; ruudukon koko ja vaikeus kasvavat askel askeleelta, ja ratkaisija tarkistaa jokaisen tason.
+• Kymmenen vaikeusporrasta: rento alku, myöhemmin haasteita asiantuntijoille.
+• Vihjeet ja kumoaminen aina tarvittaessa.
+• Päivä- ja viikkotasot, tehtävät, saavutukset ja 33 kieltä.
+• Pelattavissa ilman verkkoa puhelimella, tabletilla ja verkossa.
+• Ei rahapelejä, vedonlyöntiä tai K18-sisältöä; sopii kaikenikäisille.
+
+Ostokset (esim. mainoksettomuus) koskevat kaikkia sovelluksen pelejä.

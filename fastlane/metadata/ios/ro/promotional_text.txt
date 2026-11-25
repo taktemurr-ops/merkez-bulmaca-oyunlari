@@ -1,0 +1,1 @@
+85 puzzle-uri într-o aplicație: sudoku, grile logice, sortare și altele!

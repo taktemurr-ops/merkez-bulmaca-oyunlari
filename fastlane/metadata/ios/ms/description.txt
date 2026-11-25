@@ -1,0 +1,17 @@
+Teka-teki & Nombor menghimpunkan 85 teka-teki dan 90 varian dalam satu aplikasi, dengan reka bentuk asli kami. Teka-teki nombor, grid logik, permainan menyusun dan menggelongsor serta teka-teki minda klasik; setiap permainan ada kemajuan, misi dan pencapaian sendiri.
+
+• Teka-teki nombor: Sudoku, Sudoku Sangkar, Varian Sudoku, Pencakar Langit, Kakuro, Kotak Kira, Lebih Besar atau Kecil, Silang Kata Matematik, Sambung Nombor, Denai Nombor, Nombor Kawasan, Nombor Kumpulan, Jumlah Indeks, Padam untuk Jumlah, Buat Sepuluh, 2048, Rantai Nombor, Nombor Gelongsor, Enam Belas Gelongsor, Sekali Sahaja, Denai Papan Tanda, Memburu Domino
+• Grid logik: Logik Simbol, Logik Gambar, Logik Gambar Berwarna, Medan Periuk Api, Teka-teki Binari, Garisan Gelung, Jambatan, Pulau dan Laut, Kawasan Bintang, Khemah, Pembahagi Bilik, Gelung Anak Panah, Armada Tersembunyi, Tangki Air, Pasangan Hitam, Kepingan Empat, Petunjuk Cincin, Letak Mahkota, Mata Gelap, Garis Pandang, Nyalakan, Magnet, Gelung Mutiara, Garis Condong, Bahagi Segi Empat, Galaksi, Pasang Landasan, Rumah Cermin, Pembina Pagar, Mozek, Mewarna Peta, Kotak Hitam
+• Menyusun, menggelongsor dan laluan: Susun Air, Susun Bola, Susun Nat, Susun Heksagon, Lolos Anak Panah, Ketik Alihkan, Lolos Blok Besar, Keluar Tempat Letak Kereta, Barisan Bas, Gelongsor Gambar, Gelongsor Ais, Inersia, Tolak Kotak, Labirin, Pusing Susun, Rangkaian Gelongsor, Putar Paip, Aliran Warna, Satu Garisan, Padamkan Lampu, Terbalik Corak
+• Teka-teki minda klasik: Menara Cakera, Laluan Kuda & Permaisuri, Pemecah Kod, Kiub Warna, Tangram, Teka-teki Jigsaw, Lukis & Golek, Leraikan Tali, Leraikan, Lompat Pasak
+• Pek varian: Koleksi Sudoku (30), Peti Teka-teki Logik (60)
+
+Sorotan
+• 100,000 tahap bagi setiap permainan; saiz grid dan kesukaran meningkat sedikit demi sedikit, dan setiap tahap disemak oleh penyelesai.
+• Sepuluh peringkat kesukaran: santai pada awal, cabaran pakar kemudian.
+• Petunjuk dan buat asal bila-bila masa diperlukan.
+• Tahap harian dan mingguan, misi, pencapaian dan 33 bahasa.
+• Boleh dimainkan luar talian di telefon, tablet dan web.
+• Tiada judi, pertaruhan atau kandungan 18+; sesuai untuk semua peringkat umur.
+
+Pembelian (seperti buang iklan) terpakai untuk semua permainan dalam aplikasi.
