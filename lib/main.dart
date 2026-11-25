@@ -86,7 +86,10 @@ import 'package:oyun_vida_sokme/oyun_vida_sokme.dart';
 import 'package:oyun_yajilin/oyun_yajilin.dart';
 import 'package:oyun_yapboz/oyun_yapboz.dart';
 import 'package:oyun_yildiz_savasi/oyun_yildiz_savasi.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Bulmaca ve Sayı: sayı bulmacaları, mantık ızgaraları, sıralama ve klasik
 /// zekâ oyunlarını tek uygulamada toplar. Her oyunun kaydı ve ilerlemesi ayrıdır.
@@ -495,4 +498,4 @@ final hubConfig = HubConfig(
   ],
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);
