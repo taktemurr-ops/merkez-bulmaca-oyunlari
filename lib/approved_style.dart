@@ -9,7 +9,7 @@ const approvedStyle = ApprovedHubStyle(
   play: Color(0xFF1E90F5),
   number: Color(0xFF3FE0FF),
   heroAsset: 'assets/approved/hero.png',
-  blocks: [ApprovedBlock.search, ApprovedBlock.chips, ApprovedBlock.featured, ApprovedBlock.progress],
+  blocks: [ApprovedBlock.search, ApprovedBlock.chips, ApprovedBlock.globalDaily, ApprovedBlock.featured, ApprovedBlock.progress],
   featuredKey: 'popular',
   featured: ['oyun-sudoku', 'oyun-2048', 'oyun-sayi-birlestirme'],
   tileArt: {

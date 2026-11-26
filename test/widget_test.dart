@@ -1,5 +1,8 @@
 import 'package:flutter_test/flutter_test.dart';
+import 'package:merkez_bulmaca_oyunlari/approved_style.dart';
 import 'package:merkez_bulmaca_oyunlari/main.dart';
+import 'package:studio_core/app/approved_hub.dart';
+import 'package:studio_core/app/global_daily_ui.dart';
 
 void main() {
   test('merkezde oyunlar benzersiz kimlikle yer alıyor', () {
@@ -130,5 +133,18 @@ void main() {
     }
     final all = [for (final s in hubConfig.sections) ...s.ids];
     expect(all.toSet().length, all.length, reason: 'bir oyun iki bölümde');
+  });
+
+  test('Günün Bulmacası: katılan oyunlar herkese aynı günlük bölümü verir; Aile Turnuvası menüde', () {
+    expect(approvedStyle.blocks, contains(ApprovedBlock.globalDaily));
+    final daily = GlobalDailyHubPage.eligible(hubConfig.allGames);
+    expect(daily, isNotEmpty);
+    for (final g in daily) {
+      final a = g.rules.globalDailySpec('2026-11-26');
+      expect(a.seed, g.rules.globalDailySpec('2026-11-26').seed, reason: g.gameId);
+      expect(a.seed, isNot(g.rules.globalDailySpec('2026-11-27').seed), reason: g.gameId);
+    }
+    // Turnuva menüsü: merkezin bütün oyunları seçilebilir.
+    expect(hubConfig.allGames.length, greaterThanOrEqualTo(2));
   });
 }

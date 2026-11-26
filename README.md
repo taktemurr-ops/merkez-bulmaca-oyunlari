@@ -2,6 +2,14 @@
 
 Bulmaca ailesinin **merkez uygulaması**: 85 bulmacayı ve 90 çeşidi tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [bulmaca-motoru](https://github.com/taktemurr-ops/bulmaca-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core).
 
+## Günün Bulmacası (küresel günlük meydan okuma)
+
+Ana sayfadaki kart ve menüdeki **Günün Bulmacası**: katılan her oyunda dünyadaki herkes aynı UTC gününde aynı bulmacayı çözer (tohum yalnızca oyun + gün; motor bölümü verir, `GameRules.globalDailySpec`). Günün ilk çözümü sıralamaya girer (süre/hamle ya da puan), seri ve en iyi seri tutulur, sonuç bulmacayı ele vermeyen emoji izli metinle paylaşılır. Çevrimdışı çözülen sonuç cihazda bekler, bağlantı gelince gönderilir (Firestore `daily/{tablo}/results/{uid}`, kurallar ve emülatör testleri studio-core'da).
+
+## Aile Turnuvası
+
+Menüdeki **Aile Turnuvası** (Parti ve Aile merkezinde ana sayfada da): aynı cihazda 2–8 kişi, merkezin oyunlarından seçilenlerle 1–5 tur. Sırayla oynanan oyunlarda herkes aynı bölümü oynar (1.: 3, 2.: 2, 3.: 1 puan); birlikte oynanan oyunlarda kalabalık aileler gruplara ayrılır. Puan tablosu, şampiyon töreni ve kaldığı yerden devam; çevrimiçi bağlantı, reklam ya da kişisel bilgi yok (takma adlar yalnızca cihazda).
+
 | Oyun | Depo |
 |---|---|
 | Sudoku | [oyun-sudoku](https://github.com/taktemurr-ops/oyun-sudoku) |
