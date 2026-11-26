@@ -1,9 +1,9 @@
-Câu đố & Con số tập hợp 85 câu đố và 90 biến thể trong một ứng dụng, với thiết kế riêng của chúng tôi. Câu đố số, lưới logic, trò sắp xếp và trượt cùng các trò rèn trí kinh điển; mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
+Câu đố & Con số tập hợp 88 câu đố và 90 biến thể trong một ứng dụng, với thiết kế riêng của chúng tôi. Câu đố số, lưới logic, trò sắp xếp và trượt cùng các trò rèn trí kinh điển; mỗi trò có tiến độ, nhiệm vụ và thành tích riêng.
 
-• Câu đố số: Sudoku, Sudoku lồng, Biến thể Sudoku, Nhà chọc trời, Kakuro, Ô Tính Toán, Lớn hay nhỏ, Ô chữ toán, Nối số, Đường số, Số vùng, Số nhóm, Tổng chỉ số, Xóa cho đủ tổng, Làm tròn mười, 2048, Chuỗi số, Số trượt, Mười sáu trượt, Chỉ một lần, Đường biển chỉ, Săn domino
+• Câu đố số: Sudoku, Sudoku lồng, Biến thể Sudoku, Nhà chọc trời, Kakuro, Ô Tính Toán, Lớn hay nhỏ, Ô chữ toán, Nối số, Đường số, Số vùng, Số nhóm, Tổng chỉ số, Xóa cho đủ tổng, Làm tròn mười, 2048, Chuỗi số, Số trượt, Mười sáu trượt, Chỉ một lần, Đường biển chỉ, Săn domino, Điều kiện Domino
 • Lưới logic: Logic ký hiệu, Logic hình ảnh, Logic hình màu, Bãi mìn, Câu đố nhị phân, Vòng khép kín, Cầu nối, Đảo và biển, Vùng sao, Lều, Chia phòng, Vòng mũi tên, Hạm đội ẩn, Bể chứa nước, Cặp đen, Mảnh bốn ô, Gợi ý vòng, Đặt vương miện, Mắt tối, Tầm nhìn, Thắp sáng, Nam châm, Vòng ngọc trai, Đường chéo, Chia hình chữ nhật, Thiên hà, Đặt đường ray, Dinh thự gương, Thợ dựng rào, Khảm, Tô màu bản đồ, Hộp đen
 • Sắp xếp, trượt và đường đi: Xếp nước, Xếp bóng, Xếp đai ốc, Xếp lục giác, Mũi tên thoát, Chạm để gỡ, Khối lớn thoát, Thoát bãi đỗ xe, Hàng chờ xe buýt, Trượt tranh, Trượt băng, Quán tính, Đẩy thùng, Mê cung, Xoay sắp xếp, Mạng trượt, Xoay ống, Dòng màu, Một nét, Tắt đèn, Lật mẫu
-• Trò rèn trí kinh điển: Tháp đĩa, Đường mã và quân hậu, Phá mã, Khối màu, Tangram, Ghép hình, Vẽ và lăn, Gỡ dây, Gỡ rối, Nhảy chốt
+• Trò rèn trí kinh điển: Tháp đĩa, Đường mã và quân hậu, Phá mã, Khối màu, Tangram, Ghép hình, Vẽ và lăn, Gỡ dây, Gỡ rối, Nhảy chốt, Rút Chốt, Câu đố Mẹo
 • Gói biến thể: Bộ sưu tập Sudoku (30), Kho câu đố logic (60)
 
 Điểm nổi bật

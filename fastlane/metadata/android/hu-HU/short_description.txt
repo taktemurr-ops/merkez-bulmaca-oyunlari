@@ -1,1 +1,1 @@
-85 rejtvény egy alkalmazásban: szudoku, logikai rácsok, válogatás és más!
+88 rejtvény egy alkalmazásban: szudoku, logikai rácsok, válogatás és más!

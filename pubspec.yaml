@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 27330cd30b8fbedd4d33cf8cb781cd3bb8376dd8
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_sudoku:
     git:
@@ -363,6 +363,18 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-mantik-bulmacasi-uzun-kuyrugu
       ref: 948a4fb2ffa89912e1fc4426574e28a0188b74a1
+  oyun_domino_kosullari:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-domino-kosullari
+      ref: 2aad0675963d3f043f105a2157bec620a90e948f
+  oyun_pim_cekme:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-pim-cekme
+      ref: dabbee8ad4e0b1a21466ff4ee3e14b508fda70f9
+  oyun_tuzakli_bilmeceler:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-tuzakli-bilmeceler
+      ref: 6a890d3e1a9609c8e3e3914386a3e7e52eb6e1ed
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -376,7 +388,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 27330cd30b8fbedd4d33cf8cb781cd3bb8376dd8
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   bulmaca_motoru:
     git:
       url: https://github.com/taktemurr-ops/bulmaca-motoru

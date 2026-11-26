@@ -1,1 +1,1 @@
-85 teka-teki dalam satu aplikasi: sudoku, kisi logika, menyortir, dll!
+88 teka-teki dalam satu aplikasi: sudoku, kisi logika, menyortir, dll!

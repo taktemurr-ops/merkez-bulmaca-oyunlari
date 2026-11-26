@@ -13,6 +13,7 @@ import 'package:oyun_cevir/oyun_cevir.dart';
 import 'package:oyun_cit/oyun_cit.dart';
 import 'package:oyun_cozme/oyun_cozme.dart';
 import 'package:oyun_dikdortgenler/oyun_dikdortgenler.dart';
+import 'package:oyun_domino_kosullari/oyun_domino_kosullari.dart';
 import 'package:oyun_dominosa/oyun_dominosa.dart';
 import 'package:oyun_dondur/oyun_dondur.dart';
 import 'package:oyun_egik_cizgi/oyun_egik_cizgi.dart';
@@ -58,6 +59,7 @@ import 'package:oyun_nurikabe/oyun_nurikabe.dart';
 import 'package:oyun_ok_kacisi/oyun_ok_kacisi.dart';
 import 'package:oyun_on_alti/oyun_on_alti.dart';
 import 'package:oyun_otobus_yolcu_sikismasi/oyun_otobus_yolcu_sikismasi.dart';
+import 'package:oyun_pim_cekme/oyun_pim_cekme.dart';
 import 'package:oyun_raylar/oyun_raylar.dart';
 import 'package:oyun_renk_akisi/oyun_renk_akisi.dart';
 import 'package:oyun_renkli_nonogram/oyun_renkli_nonogram.dart';
@@ -82,6 +84,7 @@ import 'package:oyun_tas_ziplatma/oyun_tas_ziplatma.dart';
 import 'package:oyun_tek_cizgi/oyun_tek_cizgi.dart';
 import 'package:oyun_tikla_kaldir_taslar/oyun_tikla_kaldir_taslar.dart';
 import 'package:oyun_top_siralama/oyun_top_siralama.dart';
+import 'package:oyun_tuzakli_bilmeceler/oyun_tuzakli_bilmeceler.dart';
 import 'package:oyun_vida_sokme/oyun_vida_sokme.dart';
 import 'package:oyun_yajilin/oyun_yajilin.dart';
 import 'package:oyun_yapboz/oyun_yapboz.dart';
@@ -253,6 +256,9 @@ final hubConfig = HubConfig(
     adalarConfig,
     yildizConfig,
     cadirConfig,
+    dominoKosulConfig,
+    pimCekmeConfig,
+    tuzakliBilmeceConfig,
   ],
   starters: ['oyun-sudoku', 'oyun-2048', 'oyun-nonogram'],
   groups: [sudokuPaketGroup, mantikArsivGroup],
@@ -344,6 +350,9 @@ final hubConfig = HubConfig(
     'oyun-yajilin': GameCover('bz_yajilin'),
     'oyun-yapboz': GameCover('jigsaw'),
     'oyun-yildiz-savasi': GameCover('bz_starbattle'),
+    'oyun-domino-kosullari': GameCover('bz_dominocond'),
+    'oyun-pim-cekme': GameCover('bz_pinpull'),
+    'oyun-tuzakli-bilmeceler': GameCover('bz_trickq'),
   },
   defaultCover: const GameCover('grid'),
   sections: [
@@ -383,7 +392,7 @@ final hubConfig = HubConfig(
           'Câu đố số',
           'Mga palaisipang numero',
         ],
-        ids: ['oyun-sudoku', 'oyun-sudoku-cesit-paketi', 'oyun-killer-sudoku', 'oyun-sudoku-cesitleri', 'oyun-gokdelenler', 'oyun-kakuro', 'oyun-hesap-kutusu', 'oyun-futoshiki', 'oyun-matematik-cengeli', 'oyun-sayi-baglama', 'oyun-sayi-yolu', 'oyun-fillomino', 'oyun-suguru', 'oyun-kakurasu', 'oyun-sumplete', 'oyun-sayi-eslestirme', 'oyun-2048', 'oyun-sayi-birlestirme', 'oyun-hitori', 'oyun-tabela', 'oyun-dominosa']),
+        ids: ['oyun-sudoku', 'oyun-sudoku-cesit-paketi', 'oyun-killer-sudoku', 'oyun-sudoku-cesitleri', 'oyun-gokdelenler', 'oyun-kakuro', 'oyun-hesap-kutusu', 'oyun-futoshiki', 'oyun-matematik-cengeli', 'oyun-sayi-baglama', 'oyun-sayi-yolu', 'oyun-fillomino', 'oyun-suguru', 'oyun-kakurasu', 'oyun-sumplete', 'oyun-sayi-eslestirme', 'oyun-2048', 'oyun-sayi-birlestirme', 'oyun-hitori', 'oyun-tabela', 'oyun-dominosa', 'oyun-domino-kosullari']),
     HubSection(
         title: [
           'Mantık ızgaraları',
@@ -494,7 +503,7 @@ final hubConfig = HubConfig(
           'Trò rèn trí kinh điển',
           'Mga klasikong pampatalas ng isip',
         ],
-        ids: ['oyun-hanoi-kulesi', 'oyun-at-turu-ve-8-vezir', 'oyun-kod-kirici', 'oyun-sihirli-kup', 'oyun-tangram', 'oyun-yapboz', 'oyun-fizik-cizgi-bulmacasi', 'oyun-ip-cozme', 'oyun-cozme', 'oyun-tas-ziplatma', 'oyun-isiklari-sondur', 'oyun-cevir']),
+        ids: ['oyun-hanoi-kulesi', 'oyun-at-turu-ve-8-vezir', 'oyun-kod-kirici', 'oyun-sihirli-kup', 'oyun-tangram', 'oyun-yapboz', 'oyun-fizik-cizgi-bulmacasi', 'oyun-ip-cozme', 'oyun-cozme', 'oyun-tas-ziplatma', 'oyun-isiklari-sondur', 'oyun-cevir', 'oyun-pim-cekme', 'oyun-tuzakli-bilmeceler']),
   ],
 );
 

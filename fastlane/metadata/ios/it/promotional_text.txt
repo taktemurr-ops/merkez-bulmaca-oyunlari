@@ -1,1 +1,1 @@
-85 rompicapi in una app: sudoku, griglie logiche, ordinamento e altro!
+88 rompicapi in una app: sudoku, griglie logiche, ordinamento e altro!

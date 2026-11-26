@@ -1,9 +1,9 @@
-Pussel & Siffror samlar 85 pussel och 90 varianter i en app, med vår egen design. Sifferpussel, logikrutnät, sorterings- och skjutspel och klassiska hjärngympor; varje spel har egna framsteg, uppdrag och prestationer.
+Pussel & Siffror samlar 88 pussel och 90 varianter i en app, med vår egen design. Sifferpussel, logikrutnät, sorterings- och skjutspel och klassiska hjärngympor; varje spel har egna framsteg, uppdrag och prestationer.
 
-• Sifferpussel: Sudoku, Bur-sudoku, Sudokuvarianter, Skyskrapor, Kakuro, Räknerutor, Större eller mindre, Mattekorsord, Sifferlänk, Talstig, Områdestal, Grupptal, Indexsummor, Stryk till summan, Gör tio, 2048, Talkedja, Skjutsiffror, Sexton skift, Bara en gång, Skyltstig, Dominojakt
+• Sifferpussel: Sudoku, Bur-sudoku, Sudokuvarianter, Skyskrapor, Kakuro, Räknerutor, Större eller mindre, Mattekorsord, Sifferlänk, Talstig, Områdestal, Grupptal, Indexsummor, Stryk till summan, Gör tio, 2048, Talkedja, Skjutsiffror, Sexton skift, Bara en gång, Skyltstig, Dominojakt, Dominovillkor
 • Logikrutnät: Symbollogik, Bildlogik, Färgad bildlogik, Minfält, Binärt pussel, Slinglinje, Broar, Öar och hav, Stjärnområden, Tält, Rumsdelare, Pilslinga, Dold flotta, Vattentankar, Svarta par, Fyrrutsbitar, Ringledtrådar, Kronplacering, Mörkt öga, Siktlinje, Tänd ljuset, Magneter, Pärlslinga, Sneda linjer, Rektangeldelning, Galaxer, Rälsläggning, Spegelgården, Staketbyggare, Mosaik, Kartfärgning, Svarta lådan
 • Sortera, skjuta och vägar: Vattensortering, Bollsortering, Muttersortering, Hexagonsortering, Pilflykt, Tryck bort, Stora blockets flykt, Parkeringsutfart, Busskö, Skjutbild, Isglid, Tröghet, Lådskuffaren, Labyrint, Vrid och ordna, Glidande nätverk, Rörvridare, Färgströmmar, En linje, Släck lamporna, Mönstervändning
-• Klassiska hjärngympor: Disktorn, Springarväg & damer, Kodknäckare, Färgkub, Tangram, Pussel, Rita & rulla, Reda ut repen, Reda ut, Pinnhopp
+• Klassiska hjärngympor: Disktorn, Springarväg & damer, Kodknäckare, Färgkub, Tangram, Pussel, Rita & rulla, Reda ut repen, Reda ut, Pinnhopp, Dra i Sprinten, Kluriga Gåtor
 • Variantpaket: Sudokusamling (30), Logikvalvet (60)
 
 Höjdpunkter

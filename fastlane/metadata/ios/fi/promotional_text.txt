@@ -1,1 +1,1 @@
-85 pulmaa yhdessä sovelluksessa: sudoku, logiikka, lajittelu ja muuta!
+88 pulmaa yhdessä sovelluksessa: sudoku, logiikka, lajittelu ja muuta!

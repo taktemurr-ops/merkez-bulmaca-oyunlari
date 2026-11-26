@@ -1,1 +1,1 @@
-85 casse-têtes en une app : sudoku, grilles logiques, tri et plus !
+88 casse-têtes en une app : sudoku, grilles logiques, tri et plus !

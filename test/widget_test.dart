@@ -94,6 +94,9 @@ void main() {
       'oyun-nurikabe',
       'oyun-yildiz-savasi',
       'oyun-cadirlar',
+      'oyun-domino-kosullari',
+      'oyun-pim-cekme',
+      'oyun-tuzakli-bilmeceler',
     ]);
     expect(all.length, ids.length + 90);
     expect(all.toSet().length, all.length);

@@ -1,9 +1,9 @@
-Rejtvények és számok: 85 rejtvény és 90 változat egy alkalmazásban, saját tervezésünkkel. Számrejtvények, logikai rácsok, válogató és csúsztatós játékok, klasszikus fejtörők; minden játék saját haladást, küldetéseket és eredményeket tart.
+Rejtvények és számok: 88 rejtvény és 90 változat egy alkalmazásban, saját tervezésünkkel. Számrejtvények, logikai rácsok, válogató és csúsztatós játékok, klasszikus fejtörők; minden játék saját haladást, küldetéseket és eredményeket tart.
 
-• Számrejtvények: Sudoku, Ketreces szudoku, Szudoku-változatok, Felhőkarcolók, Kakuro, Számolódobozok, Nagyobb vagy kisebb, Matematikai keresztrejtvény, Számkötő, Számösvény, Területszámok, Csoportszámok, Indexösszegek, Húzd ki az összegért, Tízre kerekítő, 2048, Számlánc, Tologatós számok, Tizenhat tolás, Csak egyszer, Útjelző ösvény, Dominóvadászat
+• Számrejtvények: Sudoku, Ketreces szudoku, Szudoku-változatok, Felhőkarcolók, Kakuro, Számolódobozok, Nagyobb vagy kisebb, Matematikai keresztrejtvény, Számkötő, Számösvény, Területszámok, Csoportszámok, Indexösszegek, Húzd ki az összegért, Tízre kerekítő, 2048, Számlánc, Tologatós számok, Tizenhat tolás, Csak egyszer, Útjelző ösvény, Dominóvadászat, Dominófeltételek
 • Logikai rácsok: Jelképlogika, Képlogika, Színes képlogika, Aknamező, Bináris rejtvény, Hurokvonal, Hidak, Szigetek és tenger, Csillagterületek, Sátrak, Szobaosztó, Nyilas hurok, Rejtett flotta, Víztartályok, Fekete párok, Négyes elemek, Gyűrűs nyomok, Koronák, Sötét szem, Látótávolság, Gyújts fényt, Mágnesek, Gyöngyhurok, Ferde vonalak, Téglalapra osztás, Galaxisok, Sínfektetés, Tükörkastély, Kerítésépítő, Mozaik, Térképszínezés, Fekete doboz
 • Válogatás, csúsztatás és utak: Vízválogató, Golyóválogató, Csavaranya-válogató, Hatszögválogató, Nyílszökés, Koppints el, Nagy blokk szökése, Parkoló kijárat, Buszsor, Csúszó kép, Jégcsúszda, Tehetetlenség, Dobozpakoló, Útvesztő, Forgass és rendezz, Csúszó hálózat, Csőforgató, Színfolyamok, Egy vonal, Lámpaoltó, Mintafordító
-• Klasszikus fejtörők: Korongtorony, Huszárút és vezérek, Kódtörő, Színkocka, Tangram, Kirakó, Rajzolj és guríts, Kötélkibogozó, Kibogozó, Pöckölő
+• Klasszikus fejtörők: Korongtorony, Huszárút és vezérek, Kódtörő, Színkocka, Tangram, Kirakó, Rajzolj és guríts, Kötélkibogozó, Kibogozó, Pöckölő, Húzd ki a Csapot, Furfangos Fejtörők
 • Változatcsomagok: Szudoku-gyűjtemény (30), Logikai fejtörő-tár (60)
 
 Kiemelt

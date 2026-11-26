@@ -1,6 +1,6 @@
 # Bulmaca ve Sayı · Puzzles & Numbers (merkez-bulmaca-oyunlari)
 
-Bulmaca ailesinin **merkez uygulaması**: 85 bulmacayı ve 90 çeşidi tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [bulmaca-motoru](https://github.com/taktemurr-ops/bulmaca-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core).
+Bulmaca ailesinin **merkez uygulaması**: 88 bulmacayı ve 90 çeşidi tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [bulmaca-motoru](https://github.com/taktemurr-ops/bulmaca-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core).
 
 ## Günün Bulmacası (küresel günlük meydan okuma)
 
@@ -99,5 +99,8 @@ Menüdeki **Aile Turnuvası** (Parti ve Aile merkezinde ana sayfada da): aynı c
 | Çadırlar | [oyun-cadirlar](https://github.com/taktemurr-ops/oyun-cadirlar) |
 | Çeşit paketi (30) | [oyun-sudoku-cesit-paketi](https://github.com/taktemurr-ops/oyun-sudoku-cesit-paketi) |
 | Çeşit paketi (60) | [oyun-mantik-bulmacasi-uzun-kuyrugu](https://github.com/taktemurr-ops/oyun-mantik-bulmacasi-uzun-kuyrugu) |
+| Domino Koşulları | [oyun-domino-kosullari](https://github.com/taktemurr-ops/oyun-domino-kosullari) |
+| Pim Çekme | [oyun-pim-cekme](https://github.com/taktemurr-ops/oyun-pim-cekme) |
+| Tuzaklı Bilmeceler | [oyun-tuzakli-bilmeceler](https://github.com/taktemurr-ops/oyun-tuzakli-bilmeceler) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-bulmaca-oyunlari/releases/download/test/merkez-bulmaca-oyunlari.apk

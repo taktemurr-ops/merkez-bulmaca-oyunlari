@@ -1,9 +1,9 @@
-Puzzels & Getallen bundelt 85 puzzels en 90 varianten in één app, met ons eigen ontwerp. Getallenpuzzels, logicaroosters, sorteer- en schuifspellen en klassieke breinbrekers; elk spel houdt eigen voortgang, missies en prestaties bij.
+Puzzels & Getallen bundelt 88 puzzels en 90 varianten in één app, met ons eigen ontwerp. Getallenpuzzels, logicaroosters, sorteer- en schuifspellen en klassieke breinbrekers; elk spel houdt eigen voortgang, missies en prestaties bij.
 
-• Getallenpuzzels: Sudoku, Kooi-sudoku, Sudokuvarianten, Wolkenkrabbers, Kakuro, Rekenvakken, Groter of kleiner, Rekenkruiswoord, Getallen verbinden, Getallenpad, Gebiedsgetallen, Groepsgetallen, Indexsommen, Wegstrepen tot som, Maak Tien, 2048, Getallenketting, Schuifgetallen, Zestien schuiven, Maar één keer, Wegwijzerpad, Dominojacht
+• Getallenpuzzels: Sudoku, Kooi-sudoku, Sudokuvarianten, Wolkenkrabbers, Kakuro, Rekenvakken, Groter of kleiner, Rekenkruiswoord, Getallen verbinden, Getallenpad, Gebiedsgetallen, Groepsgetallen, Indexsommen, Wegstrepen tot som, Maak Tien, 2048, Getallenketting, Schuifgetallen, Zestien schuiven, Maar één keer, Wegwijzerpad, Dominojacht, Dominovoorwaarden
 • Logicaroosters: Symboollogica, Beeldlogica, Kleurrijke beeldlogica, Mijnenveld, Binaire puzzel, Lusroute, Bruggen, Eilanden en zee, Sterrengebieden, Tenten, Kamerverdeler, Pijllus, Verborgen Vloot, Watertanks, Zwarte paren, Viervakstukken, Ringhints, Kronen plaatsen, Donker Oog, Zichtlijn, Licht aan, Magneten, Parelkring, Schuine lijnen, Rechthoeken verdelen, Sterrenstelsels, Spoorleggen, Spiegelhuis, Hekbouwer, Mozaïek, Kaart kleuren, Zwarte Doos
 • Sorteren, schuiven en paden: Water sorteren, Ballen sorteren, Moeren sorteren, Zeshoeken sorteren, Pijlontsnapping, Tik weg, Grote blok ontsnapt, Parkeeruitgang, Bushalte-rij, Schuifplaatje, IJsglijden, Traagheid, Kistenduwer, Doolhof, Draai en orden, Schuifnetwerk, Buizendraaier, Kleurstromen, Eén lijn, Lichten uit, Patroonflip
-• Klassieke breinbrekers: Schijventoren, Paardensprong & Dames, Codekraker, Kleurenkubus, Tangram, Legpuzzel, Teken & Rol, Touwen ontwarren, Ontwarren, Pinnen springen
+• Klassieke breinbrekers: Schijventoren, Paardensprong & Dames, Codekraker, Kleurenkubus, Tangram, Legpuzzel, Teken & Rol, Touwen ontwarren, Ontwarren, Pinnen springen, Trek de Pin, Strikvragen
 • Variantenpakketten: Sudokubundel (30), Logicakluis (60)
 
 Hoogtepunten

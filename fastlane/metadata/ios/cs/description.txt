@@ -1,9 +1,9 @@
-Hlavolamy a čísla spojuje 85 hlavolamů a 90 variant v jedné aplikaci s naším vlastním designem. Číselné hlavolamy, logické mřížky, třídicí a posuvné hry i klasické hádanky; každá hra má vlastní postup, úkoly a úspěchy.
+Hlavolamy a čísla spojuje 88 hlavolamů a 90 variant v jedné aplikaci s naším vlastním designem. Číselné hlavolamy, logické mřížky, třídicí a posuvné hry i klasické hádanky; každá hra má vlastní postup, úkoly a úspěchy.
 
-• Číselné hlavolamy: Sudoku, Klecové sudoku, Varianty sudoku, Mrakodrapy, Kakuro, Početní boxy, Větší nebo menší, Matematická křížovka, Spojování čísel, Stezka čísel, Čísla oblastí, Čísla skupin, Součty indexů, Škrtni na součet, Udělej deset, 2048, Řetěz čísel, Posuvná čísla, Šestnáct posunů, Jen jednou, Stezka ukazatelů, Hon na domino
+• Číselné hlavolamy: Sudoku, Klecové sudoku, Varianty sudoku, Mrakodrapy, Kakuro, Početní boxy, Větší nebo menší, Matematická křížovka, Spojování čísel, Stezka čísel, Čísla oblastí, Čísla skupin, Součty indexů, Škrtni na součet, Udělej deset, 2048, Řetěz čísel, Posuvná čísla, Šestnáct posunů, Jen jednou, Stezka ukazatelů, Hon na domino, Dominové podmínky
 • Logické mřížky: Logika symbolů, Obrázková logika, Barevná obrázková logika, Minové pole, Binární hlavolam, Smyčka, Mosty, Ostrovy a moře, Hvězdné oblasti, Stany, Dělení pokojů, Šipková smyčka, Skrytá flotila, Vodní nádrže, Černé páry, Čtveřice, Kruhové nápovědy, Rozmístění korun, Temné oko, Dohled, Rozsviť, Magnety, Perlová smyčka, Šikmé čáry, Dělení na obdélníky, Galaxie, Pokládka kolejí, Zrcadlový zámeček, Stavitel plotů, Mozaika, Barvení mapy, Černá skříňka
 • Třídění, posouvání a cesty: Třídění vody, Třídění kuliček, Třídění matic, Třídění šestiúhelníků, Útěk šipek, Klepni a odstraň, Útěk velkého bloku, Výjezd z parkoviště, Fronta na autobus, Posuvný obrázek, Klouzání po ledu, Setrvačnost, Posouvání beden, Bludiště, Točit a řadit, Posuvná síť, Otáčení trubek, Barevné proudy, Jedna čára, Zhasni světla, Překlápění vzorů
-• Klasické hádanky: Věž disků, Jezdcova cesta a dámy, Lamač kódů, Barevná kostka, Tangram, Skládačka, Kresli a kutálej, Rozmotej lana, Rozmotávání, Skákání kolíčků
+• Klasické hádanky: Věž disků, Jezdcova cesta a dámy, Lamač kódů, Barevná kostka, Tangram, Skládačka, Kresli a kutálej, Rozmotej lana, Rozmotávání, Skákání kolíčků, Vytáhni Kolík, Záludné Hádanky
 • Balíčky variant: Sbírka sudoku (30), Trezor logických hádanek (60)
 
 Hlavní přednosti
