@@ -1,0 +1,22 @@
+[
+  {
+    "id": "oyun-2048",
+    "config": "ikibinConfig",
+    "title": "2048"
+  },
+  {
+    "id": "oyun-sudoku",
+    "config": "sudokuConfig",
+    "title": "Sudoku"
+  },
+  {
+    "id": "oyun-nonogram",
+    "config": "nonogramConfig",
+    "title": "Nonogram"
+  },
+  {
+    "id": "oyun-mayin-tarlasi",
+    "config": "mayinConfig",
+    "title": "Minesweeper"
+  }
+]
