@@ -117,4 +117,18 @@ void main() {
       expect(s.title.length, 33);
     }
   });
+
+  test('her oyunun kendine özgü kapağı var ve her oyun tek bölümde', () {
+    final seen = <String, String>{};
+    for (final e in hubConfig.covers.entries) {
+      final key = '${e.value.kind}|${e.value.label}|${e.value.v}';
+      expect(seen.containsKey(key), isFalse, reason: '${e.key} ile ${seen[key]} aynı kapağı paylaşıyor');
+      seen[key] = e.key;
+    }
+    for (final g in hubConfig.games) {
+      expect(hubConfig.coverFor(g.gameId), isNotNull, reason: g.gameId);
+    }
+    final all = [for (final s in hubConfig.sections) ...s.ids];
+    expect(all.toSet().length, all.length, reason: 'bir oyun iki bölümde');
+  });
 }
