@@ -161,10 +161,17 @@ def bundle_roboto(web):
     eklenir: motor yerel 'Roboto' ailesini görünce dışarı gitmez."""
     js = open(os.path.join(web, "main.dart.js"), encoding="utf-8", errors="ignore").read()
     m = re.search(r"https://fonts\.gstatic\.com/s/roboto/[A-Za-z0-9_./-]+\.(?:ttf|woff2?)", js)
-    if not m:
-        print("::warning::Roboto adresi main.dart.js'te bulunamadı; yazı tipi paketlenmedi.")
-        return
-    url = m.group(0)
+    if m:
+        url = m.group(0)
+    else:
+        # Yeni motor: adres fontFallbackBaseUrl + "roboto/vNN/....woff2" diye birleştirilir.
+        m = re.search(r"roboto/v\d+/[A-Za-z0-9_-]+\.(?:ttf|woff2?)", js)
+        if not m:
+            print("::warning::Roboto adresi main.dart.js'te bulunamadı; yazı tipi paketlenmedi.")
+            for hit in sorted(set(re.findall(r"[^\"']{0,40}(?:gstatic|roboto)[^\"']{0,60}", js)))[:10]:
+                print("  ipucu:", hit)
+            return
+        url = "https://fonts.gstatic.com/s/" + m.group(0)
     ext = url.rsplit(".", 1)[1]
     os.makedirs(os.path.join(web, "assets", "fonts"), exist_ok=True)
     rel = "fonts/Roboto-Regular." + ext
@@ -262,6 +269,9 @@ def main():
             zip_dir(out, out + ".zip")
             shutil.rmtree(out)
         raw, gz, n = sizes(web)
+        big = sorted(((os.path.getsize(os.path.join(r, f)), os.path.relpath(os.path.join(r, f), web))
+                      for r, _, fs in os.walk(web) for f in fs), reverse=True)[:8]
+        print("En büyük dosyalar:", ", ".join("%s %.1f MB" % (p, b / 1048576.0) for b, p in big))
         zsize = os.path.getsize(os.path.join(DIST, "%s-html5.zip" % game["id"]))
         rows.append((game["id"], raw, gz, zsize, n))
         shutil.rmtree(os.path.join(WORK, "build"), ignore_errors=True)

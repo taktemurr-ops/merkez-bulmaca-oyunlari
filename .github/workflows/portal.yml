@@ -19,6 +19,8 @@ concurrency:
 
 env:
   FLUTTER_VERSION: "3.47.9"
+  PYTHONUTF8: "1"
+  PYTHONIOENCODING: utf-8
   HUB: merkez-bulmaca-oyunlari
 
 jobs:

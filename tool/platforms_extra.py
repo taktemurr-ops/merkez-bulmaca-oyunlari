@@ -351,7 +351,7 @@ def pwa(build):
                 color = "#000000"
             s = s.replace("</head>", '  <meta name="theme-color" content="%s">\n</head>' % color, 1)
         write(index, s)
-    print("PWA: %d çekirdek dosya, sürüm %s" % (len(core), version))
+    print("PWA: %d core files, version %s" % (len(core), version))
 
 
 if __name__ == "__main__":
@@ -362,4 +362,4 @@ if __name__ == "__main__":
         windows()
         macos()
         web_manifest("web/manifest.json")
-        print("ek platform ayarları uygulandı")
+        print("extra platform settings applied")
